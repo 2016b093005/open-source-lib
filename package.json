@@ -1,0 +1,22 @@
+{
+  "name": "open-source-lib",
+  "version": "0.0.1",
+  "description": "All the fun starts here",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2016b093005/open-source-lib.git"
+  },
+  "author": "Saurav Trivedi <ksaurav3045@gmail.com> (https://github.com/2016b093005)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2016b093005/open-source-lib/issues"
+  },
+  "homepage": "https://github.com/2016b093005/open-source-lib#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.1"
+  }
+}
